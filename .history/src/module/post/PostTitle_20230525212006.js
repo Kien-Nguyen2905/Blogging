@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Skeleton from "module/skeleton/Skeleton";
 import styled, { css } from "styled-components";
 const PostTitleStyles = styled.h3`
   font-weight: 600;

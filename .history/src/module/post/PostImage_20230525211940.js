@@ -1,3 +1,4 @@
+import Skeleton from "module/skeleton/Skeleton";
 import React from "react";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
